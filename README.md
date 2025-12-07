@@ -24,11 +24,13 @@ Started learning AWS & Linux for security engineering (Day 1).
 ## Day 5 (2025-11-15)
 - Studied Linux architecture and commands
 
+## Day 6 (2025-11-16)
+- Took a lesson on Linux command usage
+
 ## Day 7(2025-11-24)
 - Took a lesson on Linux command practice and LPIC exam preparation
 
 ## Day 8 (2025-11-29)
 - Took a lesson on AWS SAA exam preparation
 
-## Day 6 (2025-11-16)
-- Took a lesson on Linux command usage
+
