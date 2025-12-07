@@ -33,4 +33,7 @@ Started learning AWS & Linux for security engineering (Day 1).
 ## Day 8 (2025-11-29)
 - Took a lesson on AWS SAA exam preparation
 
+## Day 9 (2025-12-07)
+- Took a lesson on AWS SAA exam preparation
+
 
